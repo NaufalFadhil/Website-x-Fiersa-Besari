@@ -1,0 +1,23 @@
+section {
+    min-height: 600px;
+
+}
+
+nav {
+    background-color: #1e272e;
+}
+
+.jumbotron {
+    background-color: #1e272e;
+    color: white;
+}
+
+.jumbotron img {
+    width: 290px;
+    border: 5px solid white;
+}
+
+.personal,
+footer {
+    background-color: #1e272e;
+}
